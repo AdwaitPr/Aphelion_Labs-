@@ -1,0 +1,6 @@
+{
+  "name": "Aphelion Labs — Optical Calibration Stage",
+  "description": "Precision cryptographic infrastructure and optical-grade hardware flagship featuring a physically grounded WebGL2 gravitational lens, thin-film Fresnel coating simulation, and persisted optical calibration bench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
